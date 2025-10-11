@@ -12,6 +12,7 @@
 11. STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2509.25027), Arxiv 2025
 12. Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs [Paper](https://arxiv.org/pdf/2507.16663), Arxiv 2025
 13. Interleaving Reasoning for Better Text-to-image generation [Paper](https://arxiv.org/pdf/2509.06945), Arxiv 2025
+14. Beyond Textual CoT: Interleaved Text-image chains with Deep Confidence Reasoning for Image Editing [Paper](https://arxiv.org/pdf/2510.08157v1), Arxiv 2025
 
 ## Understanding
 1. Latent Visual reasoning [Paper](https://www.arxiv.org/pdf/2509.24251), Arxiv 2025
