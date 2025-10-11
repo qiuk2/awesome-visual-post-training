@@ -6,5 +6,8 @@
 5. T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [Paper](https://arxiv.org/pdf/2505.00703), NIPS 2025
 6. Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO [Paper](https://arxiv.org/pdf/2505.17017), Arxiv 2025
 7. Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/pdf/2501.13926?), CVPR 2025
+8. Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation [Paper](https://arxiv.org/pdf/2509.18639), Arxiv 2025
+9. Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://github.com/PKU-YuanGroup/UAE), Arxiv 2025
 
 ## Understanding
+1. Latent Visual reasoning [Paper](https://www.arxiv.org/pdf/2509.24251), Arxiv 2025
