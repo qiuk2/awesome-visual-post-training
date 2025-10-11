@@ -10,7 +10,8 @@
 9. Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://github.com/PKU-YuanGroup/UAE), Arxiv 2025
 10. Neon: Negative Extrapolation from Self‑Training [Paper](https://www.arxiv.org/pdf/2510.03597), Arxiv 2025
 11. STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2509.25027), Arxiv 2025
-12. Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs [Paper](https://arxiv.org/pdf/2507.16663), Arxiv
+12. Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs [Paper](https://arxiv.org/pdf/2507.16663), Arxiv 2025
+13. Interleaving Reasoning for Better Text-to-image generation [Paper](https://arxiv.org/pdf/2509.06945), Arxiv 2025
 
 ## Understanding
 1. Latent Visual reasoning [Paper](https://www.arxiv.org/pdf/2509.24251), Arxiv 2025
