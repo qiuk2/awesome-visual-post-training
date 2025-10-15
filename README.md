@@ -16,6 +16,7 @@
 15. Towards Unified Chain-of-Thought Reasoning Across Text and Vision [Paper](https://arxiv.org/pdf/2508.05606v2), Arxiv 2025
 16. SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models [Paper](https://arxiv.org/pdf/2510.12784), Arxiv 2025
 17. UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380), Arxiv 2025
+18. HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2502.12148), Arxiv 2025
 
 ## Understanding
 1. Latent Visual reasoning [Paper](https://www.arxiv.org/pdf/2509.24251), Arxiv 2025
